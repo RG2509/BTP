@@ -22,8 +22,8 @@ stages:
 
   Release:
     cloudFoundryDeploy: true
-    cfApiEndpoint: "api.cf.us10-001.hana.ondemand.com"
-    cfOrg: "e2b4d683trial"
+    cfApiEndpoint: "https://api.cf.us10-001.hana.ondemand.com"
+    cfOrg: "devopstrial"
     cfSpace: "dev"
     cfAppName: "BTPDevOps"
     cfCredentialsId: "deploy-to-cf"
