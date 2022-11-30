@@ -25,7 +25,7 @@ stages:
     cfApiEndpoint: "https://api.cf.us10-001.hana.ondemand.com"
     cfOrg: "e2b4d683trial"
     cfSpace: "dev"
-    cfAppName: "BTPDevOps"
+    cfAppName: "devopstrail"
     cfCredentialsId: "deploy-to-cf"
     tmsUpload: false
 
