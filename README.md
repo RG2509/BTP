@@ -1,2 +1,2 @@
 # BTPDevOps - App
-> My Business Application v1
+> My Business Application v6
